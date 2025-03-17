@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .bg-light-mode {
+    background-image: url('background/bg1.png');
+}
+
+.bg-dark-mode {
+    background-image: url('background/dark.png');
+} */
+
+/* Enable smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}

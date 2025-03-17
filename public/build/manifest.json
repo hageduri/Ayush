@@ -1,0 +1,21 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-BDyLEwP8.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/background/bg1.png": {
+    "file": "assets/bg1-CajbMs_Z.png",
+    "src": "resources/css/background/bg1.png"
+  },
+  "resources/css/background/dark.png": {
+    "file": "assets/dark-BwJ-a_bq.png",
+    "src": "resources/css/background/dark.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-z-Rg4TxU.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
